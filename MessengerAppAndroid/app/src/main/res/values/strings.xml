@@ -1,0 +1,87 @@
+<resources>
+	
+	<!-- Project level resources -->
+	<string name="app_name">MessengerAppAndroid</string>
+	
+	<!-- Resources for ScreenTwoActivity -->
+	<string name="screen_two_activity_english_text_view_text">English</string>
+	<string name="screen_two_activity_yeah_why_not_text_view_hint">Yeah, Why not!</string>
+	<string name="screen_two_activity_hi_devid_lena_text_view_hint">Hi! Devid Lena</string>
+	<string name="screen_two_activity_devid_lena_text_view_hint">Devid Lena</string>
+	<string name="screen_two_activity_auto_english_transla_text_view_text">Auto English Translate</string>
+	<string name="screen_two_activity_yeah_ihave_some_qu_text_view_text">Yeah, I have some\nquestions</string>
+	<string name="screen_two_activity_sure_you_can_ask_me_text_view_text">Sure, you can ask me.</string>
+	<string name="screen_two_activity_devid_lena_text_view_text">Devid Lena</string>
+	<string name="screen_two_activity_we_talked_about_apr_text_view_hint">We talked about a project\non linkdin</string>
+	<string name="screen_two_activity_hi_devid_lena_text_view_text">Hi! Devid Lena</string>
+	<string name="screen_two_activity_we_talked_about_apr_text_view_text">We talked about a project\non linkdin</string>
+	<string name="screen_two_activity_are_you_happy_to_use_text_view_text">Are you happy to use\nthis app</string>
+	<string name="screen_two_activity_type_amessage_text_view_hint">Type a message</string>
+	<string name="screen_two_activity_yeah_why_not_text_view_text">Yeah, Why not!</string>
+	<string name="screen_two_activity_hello_lenis_peko_itext_view_text">Hello Lenis Peko,\nI know you. </string>
+	<string name="screen_two_activity_yeah_ihave_some_qu_text_view_hint">Yeah, I have some\nquestions</string>
+	<string name="screen_two_activity_auto_english_transla_text_view_hint">Auto English Translate</string>
+	<string name="screen_two_activity_type_amessage_text_view_text">Type a message</string>
+	<string name="screen_two_activity_hello_lenis_peko_itext_view_hint">Hello Lenis Peko,\nI know you. </string>
+	<string name="screen_two_activity_are_you_happy_to_use_text_view_hint">Are you happy to use\nthis app</string>
+	<string name="screen_two_activity_english_text_view_hint">English</string>
+	<string name="screen_two_activity_sure_you_can_ask_me_text_view_hint">Sure, you can ask me.</string>
+	
+	<!-- Resources for ScreenActivity -->
+	<string name="screen_activity_lorem_ipsum_is_simpl_six_text_view_text">Lorem Ipsum is simply dummy text</string>
+	<string name="screen_activity_lenis_peko_text_view_text">Lenis Peko</string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_two_text_view_text">Lorem Ipsum is simply </string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_three_text_view_hint">Lorem Ipsum is simply dummy</string>
+	<string name="screen_activity_mil_ah_bin_text_view_hint">Mil AH Bin</string>
+	<string name="screen_activity_active_text_view_hint">Active</string>
+	<string name="screen_activity_call_text_view_text">Call</string>
+	<string name="screen_activity_devid_lena_text_view_text">Devid Lena</string>
+	<string name="screen_activity_h_text_view_text">1h</string>
+	<string name="screen_activity_lukas_mian_text_view_hint">Lukas Mian</string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_text_view_text">Lorem Ipsum is simply dummy text</string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_seven_text_view_text">Lorem Ipsum is simply</string>
+	<string name="screen_activity_recent_message_text_view_text">Recent Message</string>
+	<string name="screen_activity_chat_text_view_hint">Chat</string>
+	<string name="screen_activity_juben_dio_text_view_text">Juben Dio</string>
+	<string name="screen_activity_d_two_text_view_text">2d</string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_text_view_hint">Lorem Ipsum is simply dummy text</string>
+	<string name="screen_activity_h_two_text_view_text">5h</string>
+	<string name="screen_activity_h_two_text_view_hint">5h</string>
+	<string name="screen_activity_bein_tina_text_view_text">Bein Tina</string>
+	<string name="screen_activity_recent_message_text_view_hint">Recent Message</string>
+	<string name="screen_activity_robin_son_text_view_hint">Robin Son</string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_three_text_view_text">Lorem Ipsum is simply dummy</string>
+	<string name="screen_activity_lenis_peko_text_view_hint">Lenis Peko</string>
+	<string name="screen_activity_h_four_text_view_hint">1h</string>
+	<string name="screen_activity_d_text_view_text">1d</string>
+	<string name="screen_activity_people_text_view_hint">People</string>
+	<string name="screen_activity_menu_text_view_text">Menu</string>
+	<string name="screen_activity_chats_text_view_text">Chats</string>
+	<string name="screen_activity_d_text_view_hint">1d</string>
+	<string name="screen_activity_chat_text_view_text">Chat</string>
+	<string name="screen_activity_menu_text_view_hint">Menu</string>
+	<string name="screen_activity_h_text_view_hint">1h</string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_seven_text_view_hint">Lorem Ipsum is simply</string>
+	<string name="screen_activity_chats_text_view_hint">Chats</string>
+	<string name="screen_activity_active_text_view_text">Active</string>
+	<string name="screen_activity_devid_lena_text_view_hint">Devid Lena</string>
+	<string name="screen_activity_h_three_text_view_hint">5h</string>
+	<string name="screen_activity_h_three_text_view_text">5h</string>
+	<string name="screen_activity_m_text_view_text">3m</string>
+	<string name="screen_activity_d_two_text_view_hint">2d</string>
+	<string name="screen_activity_lukas_mian_text_view_text">Lukas Mian</string>
+	<string name="screen_activity_robin_son_text_view_text">Robin Son</string>
+	<string name="screen_activity_juben_dio_text_view_hint">Juben Dio</string>
+	<string name="screen_activity_h_four_text_view_text">1h</string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_four_text_view_text">Lorem Ipsum is simply dummy text</string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_two_text_view_hint">Lorem Ipsum is simply </string>
+	<string name="screen_activity_mil_ah_bin_text_view_text">Mil AH Bin</string>
+	<string name="screen_activity_bein_tina_text_view_hint">Bein Tina</string>
+	<string name="screen_activity_m_text_view_hint">3m</string>
+	<string name="screen_activity_call_text_view_hint">Call</string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_five_text_view_hint">Lorem Ipsum is simply dummy </string>
+	<string name="screen_activity_people_text_view_text">People</string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_six_text_view_hint">Lorem Ipsum is simply dummy text</string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_five_text_view_text">Lorem Ipsum is simply dummy </string>
+	<string name="screen_activity_lorem_ipsum_is_simpl_four_text_view_hint">Lorem Ipsum is simply dummy text</string>
+</resources>

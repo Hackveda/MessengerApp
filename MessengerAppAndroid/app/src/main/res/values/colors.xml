@@ -1,0 +1,54 @@
+<resources>
+	
+	<!-- Project level resources -->
+	<color name="color_hint_text">#D0D1D5</color>
+	<color name="color_primary_dark">#000000</color>
+	<color name="color_primary">#000000</color>
+	<color name="color_accent">#000000</color>
+	<color name="material_bottom_sheet_item">#000000DE</color>
+	<color name="color_click_overlay">#555555</color>
+	<color name="material_bottom_sheet_title">#0000008A</color>
+	
+	<!-- Resources for ScreenTwoActivity -->
+	<color name="screen_two_activity_rectangle26_constraint_layout_background_color">#E8E8E8</color>
+	<color name="screen_two_activity_rectangle25_constraint_layout_background_color">#FFC6C6</color>
+	<color name="screen_two_activity_group17_constraint_layout_background_color">#FFDCDC</color>
+	<color name="screen_two_activity_auto_english_transla_text_view_text_color">#050505</color>
+	<color name="screen_two_activity_group18_constraint_layout_background_color">#D8CFFF</color>
+	<color name="screen_two_activity_group14_constraint_layout_background_color">#FFDCDC</color>
+	<color name="screen_two_activity_yeah_why_not_text_view_text_color">#050505</color>
+	<color name="screen_two_activity_rectangle23_constraint_layout_background_color">#FFC6C6</color>
+	<color name="screen_two_activity_text_view_text_view_text_color">#050505</color>
+	<color name="screen_two_activity_are_you_happy_to_use_text_view_text_color">#050505</color>
+	<color name="screen_two_activity_type_amessage_text_view_text_color">#050505</color>
+	<color name="screen_two_activity_devid_lena_text_view_text_color">#050505</color>
+	<color name="screen_two_activity_group20_constraint_layout_background_color">#D8CFFF</color>
+	<color name="screen_two_activity_rectangle22_constraint_layout_background_color">#E8E8E8</color>
+	<color name="screen_two_activity_rectangle24_constraint_layout_background_color">#E8E8E8</color>
+	<color name="screen_two_activity_we_talked_about_apr_text_view_text_color">#050505</color>
+	<color name="screen_two_activity_hello_lenis_peko_itext_view_text_color">#050505</color>
+	<color name="screen_two_activity_yeah_ihave_some_qu_text_view_text_color">#050505</color>
+	<color name="screen_two_activity_rectangle30_constraint_layout_background_color">#FFFFFF</color>
+	<color name="screen_two_activity_group16_constraint_layout_background_color">#D8CFFF</color>
+	<color name="screen_two_activity_rectangle31_constraint_layout_background_color">#E8E8E8</color>
+	<color name="screen_two_activity_rectangle28_constraint_layout_background_color">#E8E8E8</color>
+	<color name="screen_two_activity_rectangle27_constraint_layout_background_color">#FFC6C6</color>
+	<color name="screen_two_activity_english_text_view_text_color">#050505</color>
+	<color name="screen_two_activity_rectangle29_constraint_layout_background_color">#E8E8E8</color>
+	<color name="screen_two_activity_group13_constraint_layout_background_color">#FFDCDC</color>
+	<color name="screen_two_activity_hi_devid_lena_text_view_text_color">#050505</color>
+	<color name="screen_two_activity_sure_you_can_ask_me_text_view_text_color">#050505</color>
+	<color name="screen_two_activity_constraint_layout_constraint_layout_background_color">#FFFFFF</color>
+	<color name="screen_two_activity_group23_constraint_layout_background_color">#FFDCDC</color>
+	<color name="screen_two_activity_rectangle3_constraint_layout_background_color">#FFFFFF</color>
+	<color name="screen_two_activity_group19_constraint_layout_background_color">#FFDCDC</color>
+	
+	<!-- Resources for ScreenActivity -->
+	<color name="screen_activity_rectangle4_six_constraint_layout_background_color">#FFD0AC</color>
+	<color name="screen_activity_constraint_layout_constraint_layout_background_color">#FFFFFF</color>
+	<color name="screen_activity_rectangle4_three_constraint_layout_background_color">#D6F7FF</color>
+	<color name="screen_activity_group15_constraint_layout_background_color">#D8CFFF</color>
+	<color name="screen_activity_rectangle4_four_constraint_layout_background_color">#E4FFC5</color>
+	<color name="screen_activity_rectangle4_constraint_layout_background_color">#FFDCDC</color>
+	<color name="screen_activity_rectangle1_constraint_layout_background_color">#24ABAF</color>
+</resources>
